@@ -1,4 +1,3 @@
-const rover = require("./rover");
 
 function roverMover (instrucciones){
 
